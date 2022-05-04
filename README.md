@@ -16,4 +16,6 @@ Search for your city!
 # About
 This web application was designed with a mobile-first approach, however it is responsive and works well on desktop and tablet. 
 
+![Desktop](./src/assets/desktop.png?raw=true "Desktop")
 
+![Mobile](./src/assets/iPhoneSE.png?raw=true "iPhoneSE")
