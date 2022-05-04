@@ -15,3 +15,5 @@ Search for your city!
 
 # About
 This web application was designed with a mobile-first approach, however it is responsive and works well on desktop and tablet. 
+
+
